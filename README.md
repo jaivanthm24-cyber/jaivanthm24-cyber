@@ -116,7 +116,7 @@ Currently working on projects focused on **full-stack development, automation, a
 ```text
 Java & DSA             ███████████████████░  90%
 SQL & DBMS             █████████████████░░░  85%
-Web Development        ██████████████  ░░░░  70%
+Web Development        ████████████████░░░░  70%
 Backend Development    ███████████████░░░░░  70%
 Python                 ███████████████░░░░░  70%
 ```
