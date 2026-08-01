@@ -103,13 +103,11 @@ Currently working on projects focused on **full-stack development, automation, a
 
 | Category           | Tools                  |
 | ------------------ | ---------------------- |
-| 💻 Development     | VS Code, IntelliJ IDEA |
+| 💻 Development     | VS Code, Antigravity |
 | 🔧 API Testing     | Postman                |
 | 🗄️ Database       | MySQL, SQLite          |
 | 🎨 Design          | Figma                  |
 | 🔀 Version Control | Git, GitHub            |
-| 📊 Data            | Excel, Power BI        |
-| 🤖 Hardware        | Arduino, Raspberry Pi  |
 
 ---
 
@@ -118,20 +116,12 @@ Currently working on projects focused on **full-stack development, automation, a
 ```text
 Java & DSA             ███████████████████░  90%
 SQL & DBMS             █████████████████░░░  85%
-Web Development        ████████████████░░░░  80%
-Backend Development    ███████████████░░░░░  75%
-Python                 ███████████████░░░░░  75%
+Web Development        ██████████████  ░░░░  70%
+Backend Development    ███████████████░░░░░  70%
+Python                 ███████████████░░░░░  70%
 ```
 
----
 
-## 🏆 Certifications
-
-* 🐍 Python Programming — SkillRack
-* 🗄️ SQL Basics — SkillRack
-* ☁️ Microsoft Azure Fundamentals — Microsoft
-
----
 
 ## 👀 Profile Visitors
 
