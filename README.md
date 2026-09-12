@@ -29,6 +29,37 @@ I'm an Information Technology student passionate about **software development, p
 * 🎯 Preparing for software development opportunities
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Contributions</title>
+</head>
+<body>
+
+    <h2>My GitHub Contributions</h2>
+
+    <!-- Normal Snake -->
+    <img
+        src="dist/github-snake.svg"
+        alt="GitHub Contribution Snake"
+    >
+
+    <!-- Dark Snake -->
+    <img
+        src="dist/github-snake-dark.svg"
+        alt="GitHub Contribution Snake Dark"
+    >
+
+    <!-- Ocean Animation -->
+    <img
+        src="dist/ocean.gif"
+        alt="GitHub Contribution Snake Ocean"
+    >
+
+</body>
+</html>
 
 ## 🛠️ Tech Stack
 
