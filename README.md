@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/jaivanthm24-cyber">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -29,37 +29,25 @@ I'm an Information Technology student passionate about **software development, p
 * 🎯 Preparing for software development opportunities
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Contributions</title>
-</head>
-<body>
 
-    <h2>My GitHub Contributions</h2>
+## 🐍 My GitHub Contributions
 
-    <!-- Normal Snake -->
-    <img
-        src="dist/github-snake.svg"
-        alt="GitHub Contribution Snake"
-    >
+<p align="center">
+  <!-- Normal Snake -->
+  <img src="dist/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-    <!-- Dark Snake -->
-    <img
-        src="dist/github-snake-dark.svg"
-        alt="GitHub Contribution Snake Dark"
-    >
+<p align="center">
+  <!-- Dark Snake -->
+  <img src="dist/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
+</p>
 
-    <!-- Ocean Animation -->
-    <img
-        src="dist/ocean.gif"
-        alt="GitHub Contribution Snake Ocean"
-    >
+<p align="center">
+  <!-- Ocean Animation -->
+  <img src="dist/ocean.gif" alt="GitHub Contribution Snake Ocean" />
+</p>
 
-</body>
-</html>
+---
 
 ## 🛠️ Tech Stack
 
@@ -91,6 +79,12 @@ I'm an Information Technology student passionate about **software development, p
 
 ## 🚀 Current Projects
 
+### 🐳 [DockSmith](https://github.com/jaivanthm24-cyber/prince28-dev13-docksmith)
+
+Production-ready Docker & Compose expert and diagnostic engine. Features automated Dockerfile analysis, image optimization recommendations, BuildKit integration, polite corpus ingestion, and CI/CD pipelines deploying to Render with PostgreSQL.
+
+**Tech:** Python • FastAPI • PostgreSQL (pgvector/Neon) • Docker • GitHub Actions • Alembic
+
 ### 💪 Fitness Tracker
 
 A full-stack fitness application for tracking workouts, body weight, calorie intake, and fitness progress.
@@ -112,8 +106,8 @@ Currently working on projects focused on **full-stack development, automation, a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaivanthm24-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaivanthm24-cyber&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -121,11 +115,11 @@ Currently working on projects focused on **full-stack development, automation, a
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaivanthm24-cyber&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaivanthm24-cyber&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -152,12 +146,12 @@ Backend Development    ███████████████░░░░
 Python                 ███████████████░░░░░  70%
 ```
 
-
+---
 
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jaivanthm24-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -168,7 +162,7 @@ Python                 ███████████████░░░░
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:jaivanthm24@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
