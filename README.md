@@ -1,172 +1,57 @@
-# 👋 Hi, I'm Jaivanth
+<div align="center">
 
-### `Information Technology Student | Java Developer | Full-Stack Enthusiast`
+# Hi, I'm Jaivanth 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+SQL;Full-Stack+Development;Data+Structures+%26+Algorithms;Building+Projects+That+Solve+Problems" alt="Typing Animation" />
-</p>
+### Information Technology student · Java developer · Full-stack enthusiast
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/jaivanthm24-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+I enjoy solving problems and building practical software with Java, Python, SQL, and web technologies.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jaivanthm24-cyber)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaivanthm24@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-I'm an Information Technology student passionate about **software development, problem solving, and building practical applications**.
+- 🎓 B.Tech student in Information Technology
+- 💻 Building skills in Java, data structures and algorithms, SQL, and backend development
+- 🌱 Currently exploring full-stack development and practical software engineering
+- 🎯 Interested in creating useful applications and growing as a developer
 
-* 🎓 B.Tech Information Technology Student
-* 💻 Focused on **Java, DSA, SQL & Full-Stack Development**
-* 🌱 Currently improving my **problem-solving and backend development skills**
-* 🚀 Interested in building real-world applications
-* 🔍 Exploring modern technologies and development practices
-* 🎯 Preparing for software development opportunities
+## Featured project
 
----
+### [🐳 DockSmith](https://github.com/jaivanthm24-cyber/prince28-dev13-docksmith)
 
-## 🐍 My GitHub Contributions
+A Docker and Compose assistant for analyzing Dockerfiles and suggesting image optimizations, with a FastAPI backend and PostgreSQL support.
 
-<p align="center">
-  <!-- Normal Snake -->
-  <img src="dist/github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+**Stack:** Python · FastAPI · PostgreSQL · Docker · GitHub Actions · Alembic
 
-<p align="center">
-  <!-- Dark Snake -->
-  <img src="dist/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
-</p>
-
-<p align="center">
-  <!-- Ocean Animation -->
-  <img src="dist/ocean.gif" alt="GitHub Contribution Snake Ocean" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,bootstrap,fastapi,flask,mysql,sqlite" alt="Java, Python, C, C++, JavaScript, HTML, CSS, Bootstrap, FastAPI, Flask, MySQL, and SQLite" />
 </p>
-
-### Web & Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino,docker" alt="Git, GitHub, VS Code, Postman, Figma, Arduino, and Docker" />
 </p>
 
-### Database
+## GitHub activity
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+<div align="center">
 
-### Tools & Platforms
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaivanthm24-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaivanthm24-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaivanthm24-cyber&theme=tokyonight" alt="GitHub contribution summary" />
+
+</div>
 
 ---
 
-## 🚀 Current Projects
+<div align="center">
 
-### 🐳 [DockSmith](https://github.com/jaivanthm24-cyber/prince28-dev13-docksmith)
+**Learn · Build · Solve · Improve**
 
-Production-ready Docker & Compose expert and diagnostic engine. Features automated Dockerfile analysis, image optimization recommendations, BuildKit integration, polite corpus ingestion, and CI/CD pipelines deploying to Render with PostgreSQL.
-
-**Tech:** Python • FastAPI • PostgreSQL (pgvector/Neon) • Docker • GitHub Actions • Alembic
-
-### 💪 Fitness Tracker
-
-A full-stack fitness application for tracking workouts, body weight, calorie intake, and fitness progress.
-
-**Tech:** Python • SQLite • HTML • CSS
-
-### 🌐 Personal Portfolio
-
-A modern developer portfolio showcasing my projects, skills, certifications, and technical journey.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 📊 More Projects Coming Soon
-
-Currently working on projects focused on **full-stack development, automation, and practical problem solving.**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaivanthm24-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaivanthm24-cyber&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaivanthm24-cyber&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaivanthm24-cyber&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧰 Tools I Use
-
-| Category           | Tools                  |
-| ------------------ | ---------------------- |
-| 💻 Development     | VS Code, Antigravity |
-| 🔧 API Testing     | Postman                |
-| 🗄️ Database       | MySQL, SQLite          |
-| 🎨 Design          | Figma                  |
-| 🔀 Version Control | Git, GitHub            |
-
----
-
-## 📊 My Development Focus
-
-```text
-Java & DSA             ███████████████████░  90%
-SQL & DBMS             █████████████████░░░  85%
-Web Development        ████████████████░░░░  70%
-Backend Development    ███████████████░░░░░  70%
-Python                 ███████████████░░░░░  70%
-```
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaivanthm24-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:jaivanthm24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-<p align="center">
-  <b>💡 Learn • Build • Solve • Improve</b>
-</p>
+</div>
